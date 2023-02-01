@@ -1,6 +1,6 @@
 import sys
 
-# Hieno kommentti jotain
+# Hieno kommentti jotain ses
 # This is the main finction for controlling the flow of the
 # implementation.
 def main():
